@@ -255,10 +255,6 @@ SDK esp_iot_sdk_v0.9.4_14_12_19 or higher
 **Authors:**
 [Tuan PM](https://twitter.com/TuanPMT)
 
-**Donations**
-
-Invite me to a coffee
-[![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JR9RVLFC4GE6J)
 
 
 **LICENSE - "MIT License"**
